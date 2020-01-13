@@ -1,5 +1,5 @@
 {
-  "name": "plugin1",
+  "name": "accurofittest",
   "version": "1.1.0",
   "description": "This is math calculator sample using cordova plugin",
   "main": "index.js",
