@@ -1,4 +1,4 @@
-package cordova-plugin-AccuroFitTest;
+package cordova.plugin.AccuroFitTest;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
